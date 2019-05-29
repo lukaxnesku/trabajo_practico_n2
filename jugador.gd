@@ -1,8 +1,8 @@
 extends KinematicBody2D
 var velocidad = Vector2()
-const gravedad = 8
+const gravedad = 10
 const vel_pasos = 200
-const max_velocidad = 1000
+const max_velocidad = 1200
 
 func _ready():
 	pass # Replace with function body.
