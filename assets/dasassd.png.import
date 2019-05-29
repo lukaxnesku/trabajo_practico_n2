@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/22.png-ef22f6ec4a07444c4cb33e0896b14d7d.stex"
+path="res://.import/dasassd.png-0beaa8d38cb4eee1e5e788a7500b7324.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://22.png"
-dest_files=[ "res://.import/22.png-ef22f6ec4a07444c4cb33e0896b14d7d.stex" ]
+source_file="res://assets/dasassd.png"
+dest_files=[ "res://.import/dasassd.png-0beaa8d38cb4eee1e5e788a7500b7324.stex" ]
 
 [params]
 

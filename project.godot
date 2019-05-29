@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="Tp-Prototipado digital Análisis de mecánicas"
 run/main_scene="res://main.tscn"
-config/icon="res://icon.png"
+config/icon="res://assets/icon.png"
 
 [rendering]
 
